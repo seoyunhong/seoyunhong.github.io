@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Scientific Software"  
-    url: /code/
+#  - title: "Scientific Software"  
+#   url: /code/
     
 #  - title: "Publications"
 #    url: /publications/
