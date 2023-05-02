@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click Here for CV]({{ https://seoyunhong.github.io/assets/May23.pdf}})
+[Click Here for CV]({{ https://seoyunhong.github.io/assets/May23.pdf }})
