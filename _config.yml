@@ -83,11 +83,11 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  location         : "Boston"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
- # email            : 'seoyun@bu.edu'
+  email            : #'seoyun@bu.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
