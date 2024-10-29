@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stella Hong"
+title                    : "Seoyun Hong"
 title_separator          : "-"
 name                     : &name "Seoyun Stella Hong"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Seoyun (Stella) Hong"
   avatar           : "profile.JPG"
   bio              : ""
-  location         : #
+  location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : #'seoyun@bu.edu'
+  email            : "seoyun@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
