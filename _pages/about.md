@@ -12,7 +12,7 @@ Welcome to my website!
 
 My name is Seoyun (Stella) Hong. I am a Ph.D. student in the Department of Economics at Boston University. My research interests are in econometrics and labor economics.
 
-[Click here for my CV](https://seoyunhong.github.io/assets/CV_Stella Hong_Sep24.pdf) 
+[Click here for my CV](https://seoyunhong.github.io/assets/CV_Stella Hong.pdf) 
 
 
 
