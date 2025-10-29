@@ -16,8 +16,7 @@ My name is Seoyun Hong, and I also go by Stella. I am a PhD candidate in economi
 
 ## Job Market Paper
 
-<b> Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates </b> ([Draft](https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0))
-
+<b> Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates </b> 
 <details>
 <summary markdown='span'>
 <span style="cursor:pointer"> Abstract </span>
