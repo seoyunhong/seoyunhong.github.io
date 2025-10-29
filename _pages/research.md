@@ -19,7 +19,7 @@ redirect_from:
     </a> (with Changsik Kim and Hyunchul Kim),
     <em>Review of Industrial Organization</em> (2022)
     <br>
-    <a href="#/" style="color:black" onclick="visib('pub1')"><em>Abstract</em></a>
+    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('pub1')">Abstract</a>
   </li>
 </ul>
 
@@ -41,8 +41,8 @@ redirect_from:
        style="text-decoration:none" target="_blank">
        Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
     </a>
-    <br><em>Job Market Paper</em> |
-    <a href="#/" style="color:black" onclick="visib('jmp')"><em>Abstract</em></a>
+    <br><b>Job Market Paper</b> |
+    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
   </li>
 </ul>
 
@@ -63,7 +63,7 @@ redirect_from:
       Distribution Regression with Censored Selection
     </a> (with Ivan Fernandez-Val), May 2025
     <br>
-    <a href="#/" style="color:black" onclick="visib('dr')"><em>Abstract</em></a>
+    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('dr')">Abstract</a>
   </li>
 </ul>
 
@@ -84,7 +84,7 @@ redirect_from:
       Censored Quantile Regression with Many Controls
     </a>, March 2023
     <br>
-    <a href="#/" style="color:black" onclick="visib('cqr')"><em>Abstract</em></a>
+    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('cqr')">Abstract</a>
   </li>
 </ul>
 
