@@ -3,8 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <section class="page__content" itemprop="text">
