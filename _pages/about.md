@@ -20,7 +20,7 @@ My name is Seoyun Hong, and I also go by Stella. I am a PhD candidate in economi
 
 <details>
 <summary markdown='span'>
-<span style="cursor:pointer"> <i> Abstract </i></span>
+<span style="cursor:pointer"> Abstract </span>
 </summary>
 <br>
 <small> This paper develops estimation and inference for heterogeneous treatment effects by observed covariates in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference when effect heterogeneity is high-dimensional and discovered from the data using machine learning, rather than restricted to a few prespecified covariates. I estimate heterogeneous treatment effects by interacting the treatment with all covariates and select the relevant interactions with a variable selection method. I address endogeneity with instrumental variables and uncover new patterns in treatment effects. In an application to Head Start, a public early childhood education program, I examine complementarities between center characteristics and children's background, while prior work has considered center or child characteristics in isolation. The proposed method reveals that frequent home visits are most helpful for children who likely need additional support, such as those with teen mothers or in high-risk households. Transportation services deliver larger gains for children who may face access barriers. 
