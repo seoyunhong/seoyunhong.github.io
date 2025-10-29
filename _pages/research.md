@@ -35,10 +35,7 @@ author_profile: true
 
 <ul>
   <li>
-    <a href=
-       style="text-decoration:none" target="_blank">
-       Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
-    </a>
+          Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
     <br><b>Job Market Paper</b> |
     <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
   </li>
