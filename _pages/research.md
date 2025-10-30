@@ -35,7 +35,9 @@ author_profile: true
 
 <ul>
   <li>
+     <a href="https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0" style="text-decoration:none" target="_blank">
           Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
+     </a>
     <br><b>Job Market Paper</b> |
     <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
   </li>
