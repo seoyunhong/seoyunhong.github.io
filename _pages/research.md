@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: ""
+title: ""                      
 permalink: /research/
 author_profile: true
+classes: hide-title tight-top  
 ---
 
-<section class="page__content" itemprop="text">
 
 <h2 id="publications">Publications</h2>
 
