@@ -6,6 +6,13 @@ author_profile: true
 classes: hide-title
 ---
 
+<style>
+.hide-title .page__title {
+  display: none;
+}
+</style>
+
+
 <section class="page__content" itemprop="text">
 <hr>
 <h2 id="instructor">Instructor Experience</h2>
