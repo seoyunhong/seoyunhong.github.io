@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+classes: hide-title
 ---
 
 <section class="page__content" itemprop="text">
