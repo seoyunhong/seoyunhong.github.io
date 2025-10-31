@@ -1,22 +1,10 @@
 ---
 layout: archive
-title: ""                   # no H1
+title: ""                      
 permalink: /teaching/
 author_profile: true
-classes: hide-title         # we’ll target the page wrapper via .page.hide-title
+classes: hide-title tight-top  
 ---
-
-<!-- force-remove every bit of top spacing created by the archive layout -->
-<style>
-/* Minimal Mistakes structure:
-   article.page > .page__inner-wrap > header.page__header + section.page__content */
-.page.hide-title > .page__inner-wrap { padding-top: 0 !important; }
-.page.hide-title > .page__inner-wrap > header.page__header { display: none !important; }
-.page.hide-title > .page__inner-wrap > section.page__content { padding-top: 0 !important; margin-top: 0 !important; }
-/* if the first element inside content has its own margin (e.g. H2), nuke it */
-.page.hide-title > .page__inner-wrap > section.page__content > *:first-child { margin-top: 0 !important; }
-</style>
-
 <h2 id="instructor">Instructor Experience</h2>
 <ul>
   <li>
