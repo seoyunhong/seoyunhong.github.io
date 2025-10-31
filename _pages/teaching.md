@@ -5,19 +5,23 @@ permalink: /teaching/
 author_profile: true
 classes: hide-title
 ---
-
 <style>
-.page.hide-title .page__title,
-.hide-title .page__header .page__title {
-  display: none !important;
+/* Hide the entire page header (which contains the big title) */
+.hide-title .page__header { 
+  display: none !important; 
+}
+/* Fallback in case the title is rendered outside .page__header */
+.hide-title .page__title { 
+  display: none !important; 
 }
 </style>
+
 
 
 <section class="page__content" itemprop="text">
 <hr>
 
-<h2 id="instructor">Instructor Experience2</h2>
+<h2 id="instructor">Instructor Experience3</h2>
 <ul>
   <li>
     Empirical Economic Analysis (Research-focused, Undergraduate), Boston University (Summer 2023),
