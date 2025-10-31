@@ -3,11 +3,11 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
-classes: hide-title
+classes: hide-title tight-top
 ---
 
 <section class="page__content" itemprop="text">
-<h2 id="instructor">Instructor Experience</h2>
+<h2 id="instructor">Instructor Experience2</h2>
 <ul>
   <li>
     Empirical Economic Analysis (Research-focused, Undergraduate), Boston University (Summer 2023),
