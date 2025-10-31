@@ -7,11 +7,9 @@ classes: hide-title
 ---
 
 <style>
-.hide-title .page__title {
-  display: none;
-}
+.hide-title .page__title { display: none; }
+h2 { margin-top: 1.5rem; }
 </style>
-
 
 <section class="page__content" itemprop="text">
 <hr>
@@ -21,8 +19,7 @@ classes: hide-title
   Teaching evaluation: 4.92/5 <a href="https://seoyunhong.github.io/assets/EC204_Summer23.pdf" target="_blank">Link for Evaluation</a>
 </li>
   <ul>
-    <li> Gitner Prize for Excellence in Teaching, Boston University, 2024
-    </li>
+    <li> Gitner Prize for Excellence in Teaching, Boston University, 2024 </li>
   </ul>
 </ul>
 
@@ -76,18 +73,5 @@ classes: hide-title
 </ul>
 
 
-
-
-
-<script>
-function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
 
 </section>
