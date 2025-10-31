@@ -7,9 +7,12 @@ classes: hide-title
 ---
 
 <style>
-.hide-title .page__title { display: none; }
-h2 { margin-top: 1.5rem; }
+.page.hide-title .page__title,
+.hide-title .page__header .page__title {
+  display: none !important;
+}
 </style>
+
 
 <section class="page__content" itemprop="text">
 <hr>
