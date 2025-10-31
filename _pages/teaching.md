@@ -9,7 +9,7 @@ classes: hide-title
 <section class="page__content" itemprop="text">
 <hr>
 
-<h2 id="instructor">Instructor Experience3</h2>
+<h2 id="instructor">Instructor Experience</h2>
 <ul>
   <li>
     Empirical Economic Analysis (Research-focused, Undergraduate), Boston University (Summer 2023),
