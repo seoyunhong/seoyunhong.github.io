@@ -7,8 +7,6 @@ classes: hide-title
 ---
 
 <section class="page__content" itemprop="text">
-<hr>
-
 <h2 id="instructor">Instructor Experience</h2>
 <ul>
   <li>
