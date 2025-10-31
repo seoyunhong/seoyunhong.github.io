@@ -1,22 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 classes: hide-title
 ---
-<style>
-/* Hide the entire page header (which contains the big title) */
-.hide-title .page__header { 
-  display: none !important; 
-}
-/* Fallback in case the title is rendered outside .page__header */
-.hide-title .page__title { 
-  display: none !important; 
-}
-</style>
-
-
 
 <section class="page__content" itemprop="text">
 <hr>
