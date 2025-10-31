@@ -8,7 +8,7 @@ classes: hide-title
 
 <section class="page__content" itemprop="text">
 <hr>
-<h2 id="instructor">Instuctor Experience</h2>
+<h2 id="instructor">Instructor Experience</h2>
 <ul>
 <li> Empirical Economic Analysis (Research-focused, Undergraduate), Boston University (Summer 2023), 
   Teaching evaluation: 4.92/5 <a href="https://seoyunhong.github.io/assets/EC204_Summer23.pdf" target="_blank">Link for Evaluation</a>
