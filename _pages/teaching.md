@@ -1,12 +1,28 @@
 ---
 layout: archive
-title: ""
+title: ""                      # no on-page H1
 permalink: /teaching/
 author_profile: true
-classes: hide-title tight-top
+classes: hide-title tight-top  # custom classes used below
 ---
 
-<h2 id="instructor">Instructor Experience3</h2>
+<!-- tighten the page top spacing and hide the (now-empty) header -->
+<style>
+/* Minimal Mistakes structure: article.page > .page__inner-wrap > header.page__header + section.page__content */
+
+/* 1) Ensure the page header (where the H1 would be) is hidden */
+.hide-title .page__header { display: none !important; }
+
+/* 2) Remove padding added by the wrapper and content containers */
+.tight-top .page__inner-wrap { padding-top: 0 !important; }
+.tight-top .page__content { padding-top: 0 !important; }
+
+/* 3) In case the first child has its own top margin (e.g., the first H2), zero it */
+.tight-top .page__content > *:first-child { margin-top: 0 !important; }
+.tight-top .page__content h2:first-of-type { margin-top: 0 !important; }
+</style>
+
+<h2 id="instructor">Instructor Experience4</h2>
 <ul>
   <li>
     Empirical Economic Analysis (Research-focused, Undergraduate), Boston University (Summer 2023),
@@ -48,4 +64,3 @@ classes: hide-title tight-top
   <li>Organizer of Econometrics Reading Group, Boston University, 2023–2025</li>
   <li>Officer of the Graduate Economics Association, Boston University, 2021–2022</li>
 </ul>
-</section>
