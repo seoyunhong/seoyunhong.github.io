@@ -31,5 +31,14 @@ I am on the 2025-2026 job market.
   </small>
 </div>
 
-
+<script>
+function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 
