@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website3! 
+Welcome to my website! 
 
 My name is Seoyun Hong, and I also go by Stella. I am a PhD candidate in economics at Boston University. 
 
