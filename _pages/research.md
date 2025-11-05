@@ -43,13 +43,7 @@ classes: hide-title tight-top
 </ul>
 
 <div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
-  This paper develops estimation and inference for heterogeneous treatment effects by observed covariates in settings with an endogenous treatment and high-dimensional covariates.
-  The goal is to provide valid inference when effect heterogeneity is high-dimensional and discovered from the data using machine learning, rather than restricted to a few prespecified covariates.
-  I estimate heterogeneous treatment effects by interacting the treatment with all covariates and select the relevant interactions with a variable selection method.
-  I address endogeneity with instrumental variables and uncover new patterns in treatment effects.
-  In an application to Head Start, a public early childhood education program, I examine complementarities between center characteristics and children's background, while prior work has considered center or child characteristics in isolation.
-  The proposed method reveals that frequent home visits are most helpful for children who likely need additional support, such as those with teen mothers or in high-risk households.
-  Transportation services deliver larger gains for children who may face access barriers.
+This paper develops instrumental variable estimation methods for heterogeneous treatment effects in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference on treatment effect heterogeneity with respect to observed covariates, when covariates are high-dimensional and heterogeneity is discovered using machine learning. I address treatment endogeneity through instrumental variables. To model heterogeneous effects, I interact the treatment with flexible transformations of all covariates and select relevant interactions with a variable selection procedure. Applying the proposed method, I study the heterogeneous treatment effects of Head Start, a public early childhood education program, on children's cognitive skills. The results reveal complementarities between center characteristics and children's background. I find that frequent home visits increase the effect of the program for children who need additional support, and transportation services deliver larger program gains for children who may face access barriers. These findings uncover that children have greater benefits from the program when center features align with their needs, highlighting the importance of considering rich heterogeneity for policy implications.
 </div>
 
 
