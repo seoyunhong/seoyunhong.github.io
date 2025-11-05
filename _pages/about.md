@@ -26,9 +26,7 @@ I am on the 2025-2026 job market.
 <br>
 <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
 <div id="jmp" style="display:none; background-color:#F1F1F1; color:#666; padding:10px; margin-top:6px;">
-  <small>
 This paper develops instrumental variable estimation methods for heterogeneous treatment effects in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference on treatment effect heterogeneity with respect to observed covariates, when covariates are high-dimensional and heterogeneity is discovered using machine learning. I address treatment endogeneity through instrumental variables. To model heterogeneous effects, I interact the treatment with flexible transformations of all covariates and select relevant interactions with a variable selection procedure. Applying the proposed method, I study the heterogeneous treatment effects of Head Start, a public early childhood education program, on children's cognitive skills. The results reveal complementarities between center characteristics and children's background. I find that frequent home visits increase the effect of the program for children who need additional support, and transportation services deliver larger program gains for children who may face access barriers. These findings uncover that children have greater benefits from the program when center features align with their needs, highlighting the importance of considering rich heterogeneity for policy implications.
-  </small>
 </div>
 
 <script>
