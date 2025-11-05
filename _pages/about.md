@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! My name is Seoyun Hong, and I also go by Stella. I am a PhD candidate in economics at Boston University. 
 <p style="text-align: justify; text-justify: inter-word;">
-My research is at the intersection of econometrics and applied microeconomics, including labor economics and industrial organization. In econometrics, I develop new causal inference methods that leverage machine learning and high-dimensional data. In applied microeconomics, I develop estimators tailored to each problem to study empirical questions, including the gender wage gap across work hours and the effects of collusion on prices (winning bids) in procurement auctions.
+My research is at the intersection of econometrics and applied microeconomics, including labor economics and industrial organization. In econometrics, I develop new causal inference methods that leverage machine learning and high-dimensional data. In applied microeconomics, I develop estimators tailored to each problem to study empirical questions, including the gender wage gap across work hours and the effects of collusion on prices in procurement auctions.
 </p>
 
 I am on the 2025-2026 job market. 
