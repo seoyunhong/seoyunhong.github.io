@@ -25,6 +25,7 @@ I am on the 2025-2026 job market.
     Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
   </a>
 </b>
+<br> <em> Best Job Market Paper Award, Korea-America Economic Association, 2025 </em>
 <br>
 <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
 <div id="jmp" style="display:none; background-color:#F1F1F1; color:#666; padding:10px; margin-top:6px;">
