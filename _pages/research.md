@@ -37,8 +37,8 @@ classes: hide-title tight-top
      <a href="https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0" style="text-decoration:none" target="_blank">
           Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
      </a>
-    <br><b>Job Market Paper</b> |
-    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
+    <br><b>Job Market Paper</b>, <em> Best Job Market Paper Award, Korea-America Economic Association, 2025 </em>
+    <br><a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
   </li>
 </ul>
 
