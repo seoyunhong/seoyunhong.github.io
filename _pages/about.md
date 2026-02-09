@@ -15,9 +15,7 @@ My research is at the intersection of econometrics and applied microeconomics, i
 
 I am on the 2025-2026 job market. 
 
-[Click here for my CV](https://www.dropbox.com/scl/fi/7rxmwh4d2bqkpp3i3ftgt/CV_Seoyun-Hong.pdf?rlkey=dnft6yk3sbrdy0p5hi0wl4q3j&dl=0) &nbsp;&nbsp;
-[Research Statement](https://www.dropbox.com/scl/fi/498lay3zb1dtf1f4zix8f/Research_Statement.pdf?rlkey=a03vlpsdrz4q5he8eng980e8c&dl=0) &nbsp;&nbsp;
-[Teaching Statement](https://www.dropbox.com/scl/fi/kss3d284ti1fup6jx9hw0/Teaching_Statement.pdf?rlkey=hwv7bj691npysm36hxs82s0n7&dl=0) 
+[Click here for my CV](https://www.dropbox.com/scl/fi/7rxmwh4d2bqkpp3i3ftgt/CV_Seoyun-Hong.pdf?rlkey=dnft6yk3sbrdy0p5hi0wl4q3j&dl=0) 
 
 ## Job Market Paper
 <b>
