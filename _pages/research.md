@@ -87,15 +87,6 @@ This paper develops instrumental variable estimation methods for heterogeneous t
 </div>
 
 
-<hr>
-<h2 id="work-in-progress">Work in Progress</h2>
-
-<ul>
-  <li>
-    Static Games with Machine Learning: Heterogeneous Peer Effects in Analyst Recommendations
-    (with Hyungjin Kim)
-  </li>
-</ul>
 
 <script>
 function visib(id) {
