@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seoyun (Stella) Hong"
   avatar           : "profile.JPG"
-  bio              : "Economics PhD Candidate <br/> Boston University"
-  location         : "Boston, MA"
+  bio              : "Assistant Professor of Economics <br/> Georgia State University"
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "seoyun@bu.edu"
+  email            : "shong52@gsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
