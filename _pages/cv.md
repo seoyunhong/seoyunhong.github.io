@@ -1,8 +1,9 @@
 ---
+layout: archive
+title: ""                      
 permalink: /cv/
-title: ""
-author_profile: false
-classes: wide
+author_profile: true
+classes: hide-title tight-top  
 ---
 
 <div style="display: flex; justify-content: center; width: 100%;">
