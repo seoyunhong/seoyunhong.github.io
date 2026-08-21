@@ -20,7 +20,7 @@ classes: hide-title tight-top
   </li>
 </ul>
 
-<div id="pub1" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
+<div id="pub1" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
   The binary indicator of collusion is the key ingredient in estimating overcharges from bid-rigging with a regression-based approach.
   We develop a method for examining the effects of misclassification error in the indicator of bid-rigging status on estimates of damages from collusion.
   We derive partial identification of the regression model of winning bids in public procurement auctions and provide informative bounds on the price effects of bid-rigging.
@@ -36,13 +36,13 @@ classes: hide-title tight-top
   <li>
      <a href="https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0" style="text-decoration:none" target="_blank">
           Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
-     </a>
+     </a>, November 2025
     <br><em> Best Job Market Paper Award, Korea-America Economic Association, 2025 </em>
     <br><a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
   </li>
 </ul>
 
-<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
+<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
 This paper develops instrumental variable estimation methods for heterogeneous treatment effects in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference on treatment effect heterogeneity with respect to observed covariates, when covariates are high-dimensional and heterogeneity is discovered using machine learning. I address treatment endogeneity through instrumental variables. To model heterogeneous effects, I interact the treatment with flexible transformations of all covariates and select relevant interactions with a variable selection procedure. Applying the proposed method, I study the heterogeneous treatment effects of Head Start, a public early childhood education program, on children's cognitive skills. The results reveal complementarities between center characteristics and children's background. I find that frequent home visits increase the effect of the program for children who need additional support, and transportation services deliver larger program gains for children who may face access barriers. These findings suggest that children have greater benefits from the program when center features align with their needs, highlighting the importance of considering rich heterogeneity for policy implications.
 </div>
 
@@ -51,7 +51,7 @@ This paper develops instrumental variable estimation methods for heterogeneous t
   <li>
     <a href="https://arxiv.org/abs/2505.10814" style="text-decoration:none" target="_blank">
       A Distribution Regression Approach to Censored Selection Models
-    </a> (with Ivan Fernandez-Val), May 2025
+    </a> (with Ivan Fernandez-Val), August 2026
     <br>
     <a href="#/" style="color:black; text-decoration:underline" onclick="visib('dr')">Abstract</a>
   </li>
@@ -73,7 +73,7 @@ This paper develops instrumental variable estimation methods for heterogeneous t
   </li>
 </ul>
 
-<div id="cqr" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
+<div id="cqr" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
   This paper develops estimation and inference methods for censored quantile regression models with high-dimensional controls.
   The methods are based on the application of double/debiased machine learning (DML) framework to the censored quantile regression estimator of Buchinsky and Hahn (1998).
   I provide valid inference for low-dimensional parameters of interest in the presence of high-dimensional nuisance parameters when implementing machine learning estimators.
