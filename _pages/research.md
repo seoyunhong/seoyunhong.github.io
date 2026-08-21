@@ -34,21 +34,6 @@ classes: hide-title tight-top
 
 <ul>
   <li>
-     <a href="https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0" style="text-decoration:none" target="_blank">
-          Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
-     </a>, November 2025
-    <br><em> Best Job Market Paper Award, Korea-America Economic Association, 2025 </em>
-    <br><a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
-  </li>
-</ul>
-
-<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
-This paper develops instrumental variable estimation methods for heterogeneous treatment effects in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference on treatment effect heterogeneity with respect to observed covariates, when covariates are high-dimensional and heterogeneity is discovered using machine learning. I address treatment endogeneity through instrumental variables. To model heterogeneous effects, I interact the treatment with flexible transformations of all covariates and select relevant interactions with a variable selection procedure. Applying the proposed method, I study the heterogeneous treatment effects of Head Start, a public early childhood education program, on children's cognitive skills. The results reveal complementarities between center characteristics and children's background. I find that frequent home visits increase the effect of the program for children who need additional support, and transportation services deliver larger program gains for children who may face access barriers. These findings suggest that children have greater benefits from the program when center features align with their needs, highlighting the importance of considering rich heterogeneity for policy implications.
-</div>
-
-
-<ul>
-  <li>
     <a href="https://arxiv.org/abs/2505.10814" style="text-decoration:none" target="_blank">
       A Distribution Regression Approach to Censored Selection Models
     </a> (with Ivan Fernandez-Val), August 2026
@@ -60,6 +45,22 @@ This paper develops instrumental variable estimation methods for heterogeneous t
 <div id="dr" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
   We develop a distribution regression model with a censored selection rule, offering a semi-parametric generalization of the Heckman selection model.
   Our approach applies to the entire distribution, extends beyond the mean or median, accommodates non-Gaussian error structures, and allows heterogeneous effects of covariates on both selection and outcome distributions. By employing a censored selection rule, our model can uncover richer selection patterns according to both outcome and selection variables, compared to the binary selection case. We analyze identification, estimation, and inference of model functionals such as sorting parameters and distributions purged of sample selection. An application to labor supply using data from the UK reveals different selection patterns into full-time and overtime work across gender, marital status, and time. Additionally, decompositions of wage distributions by gender show that selection effects contribute to a decrease in the observed gender wage gap at low quantiles and an increase in the gap at high quantiles for full-time workers. The observed gender wage gap among overtime workers is smaller, which may be driven by different selection behaviors into overtime work across genders.
+</div>
+
+
+
+<ul>
+  <li>
+     <a href="https://www.dropbox.com/scl/fi/qb78aivj26uuweza6kgun/JMP_Seoyun_Hong.pdf?rlkey=en9drc7f1uj1r66l5bbf6wqh0&dl=0" style="text-decoration:none" target="_blank">
+          Heterogeneous Treatment Effects with Endogeneity and High-Dimensional Covariates
+     </a>, November 2025
+    <br><em> Best Job Market Paper Award, Korea-America Economic Association, 2025 </em>
+    <br><a href="#/" style="color:black; text-decoration:underline" onclick="visib('jmp')">Abstract</a>
+  </li>
+</ul>
+
+<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify;">
+This paper develops instrumental variable estimation methods for heterogeneous treatment effects in settings with an endogenous treatment and high-dimensional covariates. The goal is to provide valid inference on treatment effect heterogeneity with respect to observed covariates, when covariates are high-dimensional and heterogeneity is discovered using machine learning. I address treatment endogeneity through instrumental variables. To model heterogeneous effects, I interact the treatment with flexible transformations of all covariates and select relevant interactions with a variable selection procedure. Applying the proposed method, I study the heterogeneous treatment effects of Head Start, a public early childhood education program, on children's cognitive skills. The results reveal complementarities between center characteristics and children's background. I find that frequent home visits increase the effect of the program for children who need additional support, and transportation services deliver larger program gains for children who may face access barriers. These findings suggest that children have greater benefits from the program when center features align with their needs, highlighting the importance of considering rich heterogeneity for policy implications.
 </div>
 
 
