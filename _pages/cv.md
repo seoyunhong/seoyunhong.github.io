@@ -6,9 +6,10 @@ author_profile: true
 classes: hide-title tight-top  
 ---
 
-<p style="text-align: center;">
-  <a href="{{ '/assets/CV_Seoyun_Hong.pdf' | relative_url }}" download>
-    Click here for CV 
+<p style="text-align: left;">
+  <a href="https://seoyunhong.github.io/assets/CV_Seoyun_Hong.pdf"
+     target="_blank" rel="noopener">
+    Click here for CV
   </a>
 </p>
 
